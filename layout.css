@@ -23,7 +23,7 @@ html {
 	font-size: 14px;
 }
 img, object, embed, video {
-	max-width: 100%;
+	max-width: 50%;
 }
 body {
 	margin-left: auto;
